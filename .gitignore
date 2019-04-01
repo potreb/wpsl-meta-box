@@ -1,0 +1,4 @@
+/vendor/
+.idea
+build-coverage
+composer.lock

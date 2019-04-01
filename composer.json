@@ -1,0 +1,12 @@
+{
+  "name": "wpslt/simple-wp-meta-box",
+  "authors": [
+    {
+      "name": "Piotr Po",
+      "email": "piotr@potrebka.pl"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
