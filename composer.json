@@ -1,0 +1,12 @@
+{
+  "name": "potreb/wpsl-meta-box",
+  "authors": [
+    {
+      "name": "Piotr Po",
+      "email": "piotr@potrebka.pl"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
